@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'SoulInSync'
 date: 2023-10-24
 type: landing
 
@@ -10,20 +10,15 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Какой-то заголовок
+      text: Какой-то текст 
       primary_action:
-        text: Get Started
+        text: Придбати астро-гайд
         url: https://hugoblox.com/templates/
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
+        text: Мой Instagram
+        url: https://www.instagram.com/kateryna_bratkiv/
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -34,24 +29,21 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: bg.jpg
           filters:
             brightness: 0.5
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "200+"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Тета консультаций  
+        - statistic: "50+"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            Астро консультаций
+        - statistic: "15+"
           description: |
-            Discord community  
-            for support
+            Дипломов навчання
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
