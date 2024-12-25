@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories | Creator&#39;s Landing Page | Hugo Theme</title>
-    <link>http://localhost:1313/categories/</link>
-      <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>http://localhost:1313/media/logo_hu11604227048151704023.png</url>
-      <title>Categories</title>
-      <link>http://localhost:1313/categories/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories | Creator's Landing Page | Hugo Theme</title><link>https://soulinsync.club/categories/</link><atom:link href="https://soulinsync.club/categories/index.xml" rel="self" type="application/rss+xml"/><description>Categories</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://soulinsync.club/media/logo_hu9062383396964941416.png</url><title>Categories</title><link>https://soulinsync.club/categories/</link></image></channel></rss>
